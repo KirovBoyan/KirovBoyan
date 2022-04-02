@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @KirovBoyan
+- 👀 I’m interested in testing, hardware, Dungeons & Dragons, good books and many other things :)
+- 🌱 I’m currently learning JAVA and Selenium Web Driver
+- 📫 You can reach me on: kirov.v.boyan@gmail.com
